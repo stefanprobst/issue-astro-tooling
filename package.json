@@ -1,0 +1,16 @@
+{
+  "name": "astro-tooling",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "astro": "astro",
+    "dev": "astro dev",
+    "build": "astro build",
+    "start": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.1.0",
+    "astro": "3.0.0-rc.5",
+    "typescript": "^5.2.2"
+  }
+}
